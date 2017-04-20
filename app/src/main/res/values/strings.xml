@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nodes</string>
+    <string name="button_send">Action!</string>
+    <string name="buscar">Buscar</string>
+    <string name="numero">Número</string>
+    <string name="borrar">Borrar</string>
+    <string name="agregar">Agregar</string>
+    <string name="resultado">Que pasa</string>
+    <string name="mostrar">arg</string>
+
+</resources>
